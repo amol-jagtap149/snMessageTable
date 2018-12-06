@@ -2,20 +2,20 @@
 <record_update table="sys_ui_message">
     <sys_ui_message action="INSERT_OR_UPDATE">
         <application>Symantec DLP End User Remediation</application>
-        <key>Remediate</key>
-        <language>ja</language>
-        <message>修復</message>
+        <key>Sync Date</key>
+        <language>kn</language>
+        <message>ಸಿಂಕ್ ದಿನಾಂಕ</message>
         <sys_class_name>sys_ui_message</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-12-06 04:37:22</sys_created_on>
-        <sys_id>fa9b3e8437526300bb9e8cf6c3990e3a</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>Remediate</sys_name>
+        <sys_created_on>2018-12-06 07:26:41</sys_created_on>
+        <sys_id>c3626b80db92230005afa0f2ca961965</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sync Date</sys_name>
         <sys_package display_value="test_message_table" source="x_160457_test_mess">806220f4db23130039cf64d74896195e</sys_package>
         <sys_policy/>
         <sys_scope display_value="test_message_table">806220f4db23130039cf64d74896195e</sys_scope>
-        <sys_update_name>sys_ui_message_fa9b3e8437526300bb9e8cf6c3990e3a</sys_update_name>
+        <sys_update_name>sys_ui_message_c3626b80db92230005afa0f2ca961965</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-12-06 07:09:49</sys_updated_on>
+        <sys_updated_on>2018-12-06 07:26:41</sys_updated_on>
     </sys_ui_message>
 </record_update>
